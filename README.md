@@ -1,3 +1,3 @@
 # GodStart
 
- https://humtek-lbs.github.io/GodStart/. 
+ https://humtek-lbs.github.io/GodStart/
