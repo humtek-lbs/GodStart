@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta charset="UTF-8">
+  <title>Åmosen skebelon</title>
+  <link rel="stylesheet" type="text/css" href="aamosen.css">
+</head>
+
+<body>
+  <h1>VareGård</h1>
+  <p>Hvad er det på Varegård?.</p>
+  <p> - Bare Varegård (?)</p>
+<p> -- Der hvor de får vare </p>
+  <p>*More to come*</p>
+  
+</body>
